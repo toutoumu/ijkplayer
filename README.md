@@ -1,4 +1,4 @@
-# A4ijkplayer
+# ijkPlayer 播放器 A4ijkplayer
 ijkplayer compile with cmake
 
 最近在学习和研究 **[ijkplayer](https://github.com/bilibili/ijkplayer)，其源码是用 Android.mk 方式编译的，为了方便开发、调试，现将其编译方式替换成 CMake，可以直接在 Android Studio 中查看、跳转、调试 ijkplayer 源码。**
